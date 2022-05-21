@@ -1,0 +1,13 @@
+.slider-wrapper { 
+	width: 1262px; 
+	margin: 0px auto;
+}
+
+.clear {
+	clear:both;
+}
+.wp_editor_art_table { margin-bottom: 10px; border-collapse: collapse; display: table; }
+.wp_editor_art_table td, th{ background: white; padding: 5px 10px; border: 1px solid #DDD; }
+
+.wp_editor_tpl_table { margin-bottom: 10px; border-collapse: collapse; display: table; }
+.wp_editor_tpl_table td, th{ background: white; border: 1px solid #DDD; }
